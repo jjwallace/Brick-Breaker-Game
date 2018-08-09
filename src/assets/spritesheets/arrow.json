@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "arrow0001.png",
+	"frame": {"x":1,"y":1,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0002.png",
+	"frame": {"x":1,"y":19,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0003.png",
+	"frame": {"x":1,"y":37,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0004.png",
+	"frame": {"x":1,"y":55,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0005.png",
+	"frame": {"x":1,"y":73,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0006.png",
+	"frame": {"x":1,"y":19,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0007.png",
+	"frame": {"x":1,"y":91,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0008.png",
+	"frame": {"x":1,"y":109,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+},
+{
+	"filename": "arrow0009.png",
+	"frame": {"x":1,"y":1,"w":86,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":16},
+	"sourceSize": {"w":86,"h":16}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "arrow.png",
+	"format": "RGBA8888",
+	"size": {"w":88,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4875a3ba3fe8cdaf360a057b1ec811df:39f744ec80fae708fa82b668f4403e74:da7b7f302b584bc2843bb50b1ff3bd62$"
+}
+}

@@ -1,0 +1,25 @@
+{ "columns":1,
+ "image":"..\/images\/block.png",
+ "imageheight":32,
+ "imagewidth":32,
+ "margin":0,
+ "name":"block",
+ "spacing":0,
+ "terrains":[
+        {
+         "name":"Blue",
+         "properties":
+            {
+             "health":20
+            },
+         "propertytypes":
+            {
+             "health":"int"
+            },
+         "tile":0
+        }],
+ "tilecount":1,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

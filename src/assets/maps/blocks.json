@@ -1,0 +1,12 @@
+{ "columns":13,
+ "image":"..\/spritesheets\/blocks.png",
+ "imageheight":34,
+ "imagewidth":442,
+ "margin":0,
+ "name":"blocks",
+ "spacing":0,
+ "tilecount":13,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}
